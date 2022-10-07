@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrDv07
 - 👀 I’m interested in Data Analystics
-- 🌱 I’m currently learning Python , SQL , Tableau , R
+- 🌱 I’m currently learning Python , SQL , Tableau , R , Java 
 - 💞️ I’m looking to collaborate on projects for Data analysis
 - 📫 How to reach me gmail:- divyanshutiwari9999@gmail.com
 
