@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrDv07
-- 👀 I’m interested in full Stack Development
-- 🌱 I’m currently learning Python , SQL , Tableau , R , Java 
-- 💞️ I’m looking to collaborate on projects for Data analysis
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Python , SQL , Java 
+- 💞️ I’m looking to collaborate on projects for all types of projects
 - 📫 How to reach me gmail:- divyanshutiwari9999@gmail.com
 
 <!---
