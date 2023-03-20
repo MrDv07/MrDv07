@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrDv07 Divyanshu Tiwari
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Python , SQL , Java , Kotlin , AWS
+- 🌱 I’m currently learning Python , SQL , Java , Kotlin , AWS , Spring Boot , React.js , Mongodb
 - 💞️ I’m looking to collaborate on all types of projects
 - 📫 How to reach me gmail:- divyanshutiwari9999@gmail.com
 
